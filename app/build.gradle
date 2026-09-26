@@ -52,5 +52,5 @@ dependencies {
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 
     // Push notifications
-    implementation 'com.onesignal:OneSignal:[5.0.0, 5.99.99]'
+  implementation 'com.onesignal:OneSignal:5.8.0'
 }
