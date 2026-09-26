@@ -4,7 +4,7 @@
     <string name="site_url">https://alkisudatahub.com.ng</string>
 
     <!-- OneSignal: replace with your real App ID from dashboard.onesignal.com -->
-    <string name="onesignal_app_id">YOUR-ONESIGNAL-APP-ID-HERE</string>
+    <string name="onesignal_app_id">f618c427-6b8c-4b53-aaf2-67e32f688705</string>
 
     <!-- Onboarding slide 1 -->
     <string name="ob1_title">Welcome to AlkisuDatahub</string>
