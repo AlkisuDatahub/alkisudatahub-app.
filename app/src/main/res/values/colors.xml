@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_dark">#0A192F</color>
+    <color name="brand_blue">#1670FF</color>
+    <color name="sky_bg">#EAF1FE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="slate_text">#45536B</color>
+    <color name="dot_inactive">#C7D6EE</color>
+</resources>

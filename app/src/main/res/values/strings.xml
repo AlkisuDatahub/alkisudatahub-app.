@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlkisuDatahub</string>
+    <string name="site_url">https://alkisudatahub.com.ng</string>
+
+    <!-- OneSignal: replace with your real App ID from dashboard.onesignal.com -->
+    <string name="onesignal_app_id">YOUR-ONESIGNAL-APP-ID-HERE</string>
+
+    <!-- Onboarding slide 1 -->
+    <string name="ob1_title">Welcome to AlkisuDatahub</string>
+    <string name="ob1_body">Fast, reliable data, airtime and bill payments — built for Sokoto and beyond.</string>
+
+    <!-- Onboarding slide 2 -->
+    <string name="ob2_title">Buy Your Cheap Data</string>
+    <string name="ob2_body">Unbeatable data and airtime rates on every network, delivered instantly to your line.</string>
+
+    <!-- Onboarding slide 3 -->
+    <string name="ob3_title">Do Your Verification</string>
+    <string name="ob3_body">Verify NIN and BVN in minutes. Your slip downloads straight to your phone the moment it\'s ready.</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="biometric_title">Unlock AlkisuDatahub</string>
+    <string name="biometric_subtitle">Use your fingerprint or face to continue</string>
+    <string name="biometric_negative">Use password instead</string>
+</resources>
