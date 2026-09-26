@@ -38,5 +38,9 @@
             android:exported="false"
             android:configChanges="orientation|screenSize|keyboardHidden" />
 
+        <activity
+            android:name=".CrashActivity"
+            android:exported="false" />
+
     </application>
 </manifest>
